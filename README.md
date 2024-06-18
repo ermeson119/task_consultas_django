@@ -3,7 +3,7 @@
 <ol>
   <li>python -m venv .venv</li>
   <li>.venv/Script/activate</li>
-  <li>pip inatall django</li>
+  <li>pip install django</li>
   <li>django-admin startproject "NOME DO PROJETO" . </li>
   <li>django-admin startapp "NOME DO APP"</li>
   <li>python manage.py runserver</li>
