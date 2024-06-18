@@ -19,7 +19,7 @@
 <ol>
   <p>A primeira vez: python manage.py migrate</p>
 
-  <p>dDepois de criar o app a sequencia é essa.</p>
+  <p>Depois de criar o app a sequencia é essa.</p>
   <li>python manage.py makemigrations "Nome do APP"</li>
   <li>python manage.py migrate</li>
 </ol>
